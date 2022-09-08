@@ -1,0 +1,20 @@
+h1{
+     text-align: center;
+}
+
+body{
+    font-family: 'Times New Roman', Times, serif; background-color: hotpink;
+}
+
+#eka h2{
+    font-family: 'Courier New', Courier, monospace; font-size: 40px;  
+}
+#eka{
+    font-size: 13pt; 
+}
+#eka p{
+    padding: 35px; border: 10px black;
+}
+img{
+    border: solid 10px;
+}
